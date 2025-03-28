@@ -1,0 +1,19 @@
+body {
+    background-color: #F5F5F5; /* Dark White */
+    color: #5B2D82; /* Purple */
+}
+.navbar {
+    background-color: #8d946f; /* Green */
+}
+.navbar-brand img {
+    height: 50px;
+}
+.navbar-nav .nav-link {
+    color: white;
+}
+.footer {
+    background-color: #8d946f;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
